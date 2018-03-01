@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Stok_TakipDataSet" targetNamespace="http://tempuri.org/Stok_TakipDataSet.xsd" xmlns:mstns="http://tempuri.org/Stok_TakipDataSet.xsd" xmlns="http://tempuri.org/Stok_TakipDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Stok_TakipConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Stok_TakipConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Demirbas_Stok_Takip.Properties.Settings.GlobalReference.Default.Stok_TakipConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DepartmanlarTableAdapter" GeneratorDataComponentClassName="DepartmanlarTableAdapter" Name="Departmanlar" UserDataComponentName="DepartmanlarTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Stok_TakipConnectionString (Settings)" DbObjectName="Stok_Takip.dbo.Departmanlar" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT DepartmantAdi FROM dbo.Departmanlar</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DepartmantAdi" DataSetColumn="DepartmantAdi" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Stok_TakipDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Stok_TakipDataSet" msprop:Generator_UserDSName="Stok_TakipDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Departmanlar" msprop:Generator_TableClassName="DepartmanlarDataTable" msprop:Generator_TableVarName="tableDepartmanlar" msprop:Generator_TablePropName="Departmanlar" msprop:Generator_RowDeletingName="DepartmanlarRowDeleting" msprop:Generator_RowChangingName="DepartmanlarRowChanging" msprop:Generator_RowEvHandlerName="DepartmanlarRowChangeEventHandler" msprop:Generator_RowDeletedName="DepartmanlarRowDeleted" msprop:Generator_UserTableName="Departmanlar" msprop:Generator_RowChangedName="DepartmanlarRowChanged" msprop:Generator_RowEvArgName="DepartmanlarRowChangeEvent" msprop:Generator_RowClassName="DepartmanlarRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DepartmantAdi" msprop:Generator_ColumnVarNameInTable="columnDepartmantAdi" msprop:Generator_ColumnPropNameInRow="DepartmantAdi" msprop:Generator_ColumnPropNameInTable="DepartmantAdiColumn" msprop:Generator_UserColumnName="DepartmantAdi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

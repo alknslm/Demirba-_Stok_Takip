@@ -1,0 +1,33 @@
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\bin\Debug\Demirbas_Stok_Takip.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\bin\Debug\Demirbas_Stok_Takip.exe
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\bin\Debug\Demirbas_Stok_Takip.pdb
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.exe
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.pdb
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Ana_Sayfa.resources
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.D_Sayısı_Arama.resources
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Oda_Demirbas_Islem.resources
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Oda_Demirbas_Liste.resources
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Oda_Tanımla.resources
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.P_Arama.resources
+c:\users\user\documents\visual studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Stok_Kayıt.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Stok_Demirbas.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\bin\Debug\Demirbas_Stok_Takip.exe.config
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.exe
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.pdb
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\bin\Debug\Demirbas_Stok_Takip.exe
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\bin\Debug\Demirbas_Stok_Takip.pdb
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.csprojResolveAssemblyReference.cache
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Ana_Sayfa.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.D_Sayısı_Arama.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Form1.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Oda_Demirbas_Islem.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Oda_Demirbas_Liste.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Oda_Tanımla.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Properties.Resources.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.P_Arama.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.Stok_Kayıt.resources
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Demirbas_Stok_Takip\obj\Debug\Demirbas_Stok_Takip.csproj.GenerateResource.Cache

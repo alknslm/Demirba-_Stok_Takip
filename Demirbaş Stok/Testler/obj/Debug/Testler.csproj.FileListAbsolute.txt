@@ -1,0 +1,9 @@
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\bin\Debug\Testler.dll
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\bin\Debug\Testler.pdb
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\bin\Debug\Demirbas_Stok_Takip.exe
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\bin\Debug\Demirbas_Stok_Takip.pdb
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\obj\Debug\Testler.csprojResolveAssemblyReference.cache
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\obj\Debug\Testler.dll
+C:\Users\Alkan\Desktop\Demirbas_Stok_Takip\Testler\obj\Debug\Testler.pdb
