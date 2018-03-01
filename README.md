@@ -1,2 +1,2 @@
-# Demirba-_Stok_Takip
+# Demirbaş_Stok_Takip
 demirbaş stok takibi
